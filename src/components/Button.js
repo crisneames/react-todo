@@ -9,6 +9,6 @@ const Button = ({ color, text, handleOnClick}) => {
 }
 
 Button.defaultProps = {
-    color: 'grey'
+    color: 'blue'
 }
 export default Button
